@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:shadowapi:4.5" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadowapi/4.5/2d4520bee31cb2a078d8d38586322def7c6d4f57/shadowapi-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

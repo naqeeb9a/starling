@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.work:work-runtime:2.4.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d26c559d0a9a898ae91de05c2d8167f7/transformed/work-runtime-2.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d26c559d0a9a898ae91de05c2d8167f7/transformed/work-runtime-2.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

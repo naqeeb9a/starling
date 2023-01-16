@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:shadows-framework:4.5" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/shadows-framework/4.5/82980ba4a01b700e675c0829261cfe7c5c11b46f/shadows-framework-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

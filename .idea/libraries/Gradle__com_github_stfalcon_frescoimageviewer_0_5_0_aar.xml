@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.stfalcon:frescoimageviewer:0.5.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c66f5e3f4f6667a38adcfa6ce1fb8e4/transformed/jetified-frescoimageviewer-0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c66f5e3f4f6667a38adcfa6ce1fb8e4/transformed/jetified-frescoimageviewer-0.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

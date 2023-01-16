@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.barteksc:android-pdf-viewer:3.1.0-beta.1@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03b97b4c30b22aa8d2e12999e36dc39b/jetified-android-pdf-viewer-3.1.0-beta.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/03b97b4c30b22aa8d2e12999e36dc39b/jetified-android-pdf-viewer-3.1.0-beta.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

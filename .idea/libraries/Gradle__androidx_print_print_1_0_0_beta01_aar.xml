@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.print:print:1.0.0-beta01@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51e0b45a118c3e0d5ff9c12d03b2b5f2/print-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51e0b45a118c3e0d5ff9c12d03b2b5f2/print-1.0.0-beta01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

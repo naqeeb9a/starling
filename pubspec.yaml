@@ -1,0 +1,140 @@
+name: crm_app
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  intl:
+  http:
+  get_storage:
+  flutter_easyloading:
+  shared_preferences:
+  json_serializable:
+  screen_loader:
+  loader_overlay:
+  date_time_format:
+  jwt_decoder:
+  timelines:
+  flutter_paginator:
+  url_launcher:
+  flutter_staggered_animations:
+  fluttertoast:
+  lottie:
+  date_range_picker:
+  chat_list:
+  file_picker:
+  flutter_cached_pdfview:
+  flutter_html:
+  percent_indicator:
+  onesignal_flutter:
+  native_updater:
+  local_auth:
+  pie_chart:
+  carousel_slider:
+  google_maps_flutter:
+  location:
+  geolocator:
+  geocoder:
+  datetime_picker_formfield:
+  expansion_tile_card:
+  flutter_phone_direct_caller:
+  awesome_dropdown:
+  syncfusion_flutter_calendar:
+  provider:
+  fl_chart: ^0.45.0
+  convex_bottom_app_bar: ^1.0.1
+  floating_action_bubble: ^1.1.4
+  curved_nav_bar: ^0.0.2
+  rotated_corner_decoration: ^2.0.0
+  image_slider: ^1.0.2
+  image_viewer: ^1.5.0
+  searchfield: ^0.6.4
+  platform_maps_flutter:
+  appflowy_board:
+  boardview:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/logo.png
+    - assets/images/fclogoDB.jpg
+    - assets/images/
+    - assets/images/icons/user.png
+    - assets/images/placeholder.png
+    - assets/images/icons/bayut-icon.png
+    - assets/images/icons/pf-icon.png
+    - assets/images/icons/dubizzle-icon.ico
+    - assets/images/icons/socialIcons/Call.png
+    - assets/images/icons/socialIcons/Email.png
+    - assets/images/icons/socialIcons/Sms.png
+    - assets/images/icons/socialIcons/WhatsApp.png
+    - assets/codes/countries.json
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Italic.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto-Thin.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+    - family: Cairo
+      fonts:
+        - asset: assets/fonts/Cairo/Cairo-Black.ttf
+        - asset: assets/fonts/Cairo/Cairo-Bold.ttf
+        - asset: assets/fonts/Cairo/Cairo-ExtraLight.ttf
+        - asset: assets/fonts/Cairo/Cairo-Light.ttf
+        - asset: assets/fonts/Cairo/Cairo-Regular.ttf
+        - asset: assets/fonts/Cairo/Cairo-SemiBold.ttf
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

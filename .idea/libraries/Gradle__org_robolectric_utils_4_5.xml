@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:utils:4.5" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/utils/4.5/1bd1fae0f6c8cd2034b3103eb75b840084446f7b/utils-4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
